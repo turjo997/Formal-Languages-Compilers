@@ -56,7 +56,6 @@ int main(){
             while(str[++i] !='/'){
                     continue;
             }
-            ++i;
            }
            else{
              fputc(str[i] , p2);
