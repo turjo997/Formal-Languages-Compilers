@@ -1,0 +1,5 @@
+ASSIGNMENT #2:
+Suppose, we have a C source program scanned and filtered as it was done in Session 1. We now take
+that modified file as input, and separate the lexemes first. We further recognize and mark the
+lexemes as different types of tokens like keywords, identifiers, operators, separators, parenthesis,
+numbers, etc.
