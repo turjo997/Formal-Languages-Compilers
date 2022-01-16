@@ -2,7 +2,7 @@
          Question:
          
          
-        c(I)*_dd_ 
+        c(I)*_dd*
         where I = any character a to z and A to Z. and d = any digit between 0 to 9
 
 */
