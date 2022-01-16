@@ -263,9 +263,6 @@ void output(char *str){
     new_cr[k] ='\0';
 
     puts(new_cr);
-
-    FILE *p3 = fopen("output1.txt" , "w");
-
 }
 
 void insert(int sl , char *s1 , char *s2 , char *s3 , char *s4 , char *s5){
