@@ -1,0 +1,11 @@
+Expected declaration of id x at line 4
+'else' without a previous 'if' at line 8
+Duplicate token at line 2
+Duplicate token at line 4
+Duplicate token at line 6
+Misplaced '}' at line 7
+Duplicate token at line 7
+Duplicate token at line 11
+Misplaced '{' at line 12
+Duplicate token at line 12
+Only two semicolon in for loop at line 15
