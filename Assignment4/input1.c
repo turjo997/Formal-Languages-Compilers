@@ -12,4 +12,4 @@ int main(void)
 {{{{
 int n1; double z;
 n1=25;
-for(;;;){}
+for(;;){}
