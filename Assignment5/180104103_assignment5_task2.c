@@ -39,7 +39,7 @@ void Factor(){
      }
      if(f){
         Exp();
-        f = 1;
+       // f = 1;
      }
      if(f){
         if(str[i] == ')'){
