@@ -162,14 +162,15 @@ int sl = 0 , sln = 0 , sl2 = 0;
 char new_cr[1000];
 
 void display(){
-     printf("\nSl. No.\t\tName\t\tId Type\t\tData Type\tScope\t\tValue\n");
+    printf("\nSl. No.\t\tName\t\tId Type\t\tData Type\tScope\t\tValue\n");
 
      for(int i = 0 ; i<sl ; ++i){
       if(i+1 == 8){
         continue;
       }
-      printf("%d\t\t%s\t\t%s\t\t%s\t\t%s\t\t%s\n",i+1,Name[i],IdType[i],DataType[i],Scope[i] ,Value[i]);
+        printf("%d\t\t%s\t\t%s\t\t%s\t\t%s\t\t%s\n",i+1,Name[i],IdType[i],DataType[i],Scope[i] ,Value[i]);
       }
+
 }
 void update(){
 
